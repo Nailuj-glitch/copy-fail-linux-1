@@ -29,3 +29,25 @@ Ejemplo rápido:
 # Dentro de la VM QEMU, ejecuta el comando de evidencia del hito
 # Luego copia el texto y guárdalo aquí
 ```
+
+
+
+Hito 1, comprobar vulnerabilidad de la MV
+![alt text](image.png)
+
+descargar el script automatizado del exploit y verificar identidad
+![alt text](image-1.png)
+
+Ejecutar el exploit para corromper el Page Cache y Confirmar la escalación de privilegios exitosa
+![alt text](image-2.png)
+
+Hito 4 
+
+![alt text](image-3.png)
+
+Forzar la descarga del módulo de la memoria RAM de forma silenciosa
+![alt text](image-4.png)
+
+Verificar el modulo del sistema
+![alt text](image-5.png)
+
